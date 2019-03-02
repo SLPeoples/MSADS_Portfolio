@@ -27,7 +27,7 @@ contact@lukepeoples.com
    
     * [Project_4: Name](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/Project_4)
   
-5. [Portfolio Presentation]](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPortfolioPresentation.mp4)
+5. [Portfolio Presentation](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPortfolioPresentation.mp4)
     - Video file presenting the Portfolio Milestone
 
 6. [SamuelPeoplesPortfolioMilestonePresentation.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPortfolioMilestonePresentation.pdf)

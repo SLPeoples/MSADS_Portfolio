@@ -6,7 +6,7 @@ contact@lukepeoples.com
 
 ## Table of Contents
 
-1. 1_README.md: Overview Document
+1. README.md: Overview Document
 
 2. 2_SamuelPeoplesResume.pdf: Current Resume
 

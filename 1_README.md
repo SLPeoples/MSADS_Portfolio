@@ -1,6 +1,7 @@
 # Samuel L. Peoples
 ## 793568460
-## slpeople@syr.edu
+slpeople@syr.edu
+contact@lukepeoples.com
 
 ### Table of Contents
 
@@ -12,13 +13,13 @@
 
 4. Referenced Course Projects and Assignments
 
-a. Project_1: Name
+..a. Project_1: Name
   
-b. Project_2: Name
+..b. Project_2: Name
   
-c. Project_3: Name
+..c. Project_3: Name
   
-d. Project_4: Name
+..d. Project_4: Name
   
 5. 5_SamuelPeoplesPortfolioMilestone.mp4: Video file presenting the Portfolio Milestone
 

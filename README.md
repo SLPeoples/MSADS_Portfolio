@@ -1,7 +1,8 @@
 # Syracuse University M.S., Applied Data Science
-## Portfolio Milestone
 # Samuel L. Peoples
-## 793568460
+
+793568460
+
 slpeople@syr.edu
 
 contact@lukepeoples.com

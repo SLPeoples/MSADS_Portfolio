@@ -1,6 +1,5 @@
 # Syracuse University, M.S., Applied Data Science
-# Portfolio Milestone
-# Samuel L. Peoples
+## Samuel L. Peoples
 
 793568460
 

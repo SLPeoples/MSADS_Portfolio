@@ -13,13 +13,13 @@ contact@lukepeoples.com
 3. 3_SamuelPeoplesPortfolioMilestone.pdf: Written Portfolio Milestone Report
 
 4. Referenced Course Projects and Assignments
-  a. Project_1: Name
+  * Project_1: Name
     
-  b. Project_2: Name
+  * Project_2: Name
     
-  c. Project_3: Name
+  * Project_3: Name
    
-  d. Project_4: Name
+  * Project_4: Name
   
 5. 5_SamuelPeoplesPortfolioMilestone.mp4: Video file presenting the Portfolio Milestone
 

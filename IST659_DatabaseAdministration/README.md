@@ -1,4 +1,4 @@
-# Syracuse University, M.S., Applied Data Science
+# IST 659: Database Administration
 ## Samuel L. Peoples
 
 793568460

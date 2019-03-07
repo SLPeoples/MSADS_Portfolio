@@ -1,4 +1,4 @@
-# Syracuse University, M.S., Applied Data Science
+# IST 707: Data Analytics
 ## Samuel L. Peoples
 
 793568460

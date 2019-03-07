@@ -1,4 +1,4 @@
-# Syracuse University, M.S., Applied Data Science
+# IST 664: Natural Language Processing
 ## Samuel L. Peoples
 
 793568460

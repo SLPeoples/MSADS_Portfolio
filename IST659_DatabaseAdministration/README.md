@@ -22,4 +22,4 @@ contact@lukepeoples.com
     - Project report
   
 5. [Project_Description.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/IST659_DatabaseAdministration/Project_Description.pdf)
-    - Video file presenting the Portfolio Milestone
+    - Project description and guidelines

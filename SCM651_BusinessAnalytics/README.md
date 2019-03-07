@@ -1,4 +1,4 @@
-# Syracuse University, M.S., Applied Data Science
+# SCM 651: Business Analytics
 ## Samuel L. Peoples
 
 793568460

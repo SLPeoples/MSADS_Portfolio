@@ -19,13 +19,13 @@ contact@lukepeoples.com
     - Written Portfolio Milestone Report
 
 4. Referenced Course Projects and Assignments
-    * [Project_1: Name](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/Project_1)
+    * [IST 659: Database Administration](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/IST659_DatabaseAdministration)
     
-    * [Project_2: Name](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/Project_2)
+    * [IST 664: Natural Language Processing](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/IST664_NaturalLanguageProcessing)
     
-    * [Project_3: Name](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/Project_3)
+    * [IST 707: Data Analytics](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/IST707_DataAnalytics)
    
-    * [Project_4: Name](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/Project_4)
+    * [SCM 651: Business Analytics](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/SCM651_BusinessAnalytics)
   
 5. [Portfolio Presentation](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPortfolioPresentation.mp4)
     - Video file presenting the Portfolio Milestone

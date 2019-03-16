@@ -36,10 +36,10 @@ contact@lukepeoples.com
 3. [Scripts](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/IST736_TextMining/scripts)
     - Scripts used to conduct analysis
 
-4. [Peoples_IST664.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/IST736_TextMining/Peoples_IST736_RPT.pdf)
+4. [Peoples_IST736_RPT.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/IST736_TextMining/Peoples_IST736_RPT.pdf)
     - Project report
 	
-5. [Peoples_IST664.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/IST736_TextMining/Peoples_IST736_PPT.pdf)
+5. [Peoples_IST736_PPT.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/IST736_TextMining/Peoples_IST736_PPT.pdf)
     - Project presentation
   
 6. [Project_Description.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/IST736_TextMining/Project_Description.pdf)

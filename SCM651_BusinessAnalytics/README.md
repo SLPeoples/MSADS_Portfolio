@@ -9,11 +9,9 @@ contact@lukepeoples.com
 
 ## Required Tools
 
-* SQL Server Management Studio
+* r
 
-* SQL Server Integration Services
-
-* Microsoft Access
+* r Studio
 
 ## Table of Contents
 

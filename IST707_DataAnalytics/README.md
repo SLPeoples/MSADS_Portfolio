@@ -7,6 +7,16 @@ slpeople@syr.edu
 
 contact@lukepeoples.com
 
+## Required Tools
+
+* r
+
+* r Studio
+
+* caTools
+
+* e1071
+
 ## Table of Contents
 
 1. README.md 

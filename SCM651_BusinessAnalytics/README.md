@@ -13,6 +13,10 @@ contact@lukepeoples.com
 
 * r Studio
 
+* neuralnet
+
+* caTools
+
 ## Table of Contents
 
 1. README.md 

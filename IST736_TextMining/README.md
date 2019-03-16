@@ -11,8 +11,6 @@ contact@lukepeoples.com
 
 * Python
 
-* Tableau
-
 * Library: SkLearn
 
 * Library: matplotlib

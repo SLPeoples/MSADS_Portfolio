@@ -1,0 +1,9 @@
+bin\mallet import-dir --input [REDACTED]\congress\ --output [REDACTED]\congress_twitter.mallet --keep-sequence --remove-stopwords
+
+bin\mallet train-topics --input [REDACTED]\congress_twitter.mallet --num-topics 10 --output-state 10-congress-topic-state.gz --output-topic-keys 10-congress-keys.txt --output-doc-topics 10-congress-topics.txt --optimize-interval 10
+
+bin\mallet train-topics --input [REDACTED]\congress_twitter.mallet --num-topics 15 --output-state 15-congress-topic-state.gz --output-topic-keys 15-congress-keys.txt --output-doc-topics 15-congress-topics.txt --optimize-interval 10
+
+bin\mallet train-topics --input [REDACTED]\congress_twitter.mallet --num-topics 25 --output-state 25-congress-topic-state.gz --output-topic-keys 25-congress-keys.txt --output-doc-topics 25-congress-topics.txt --optimize-interval 10
+
+bin\mallet train-topics --input [REDACTED]\congress_twitter.mallet --num-topics 50 --output-state 50-congress-topic-state.gz --output-topic-keys 50-congress-keys.txt --output-doc-topics 50-congress-topics.txt --optimize-interval 10

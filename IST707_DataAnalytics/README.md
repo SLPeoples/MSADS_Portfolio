@@ -13,9 +13,9 @@ contact@lukepeoples.com
 
 * r Studio
 
-* caTools
+* Library: caTools
 
-* e1071
+* Library: e1071
 
 ## Table of Contents
 

@@ -7,6 +7,14 @@ slpeople@syr.edu
 
 contact@lukepeoples.com
 
+## Required Tools
+
+* Python
+
+* NLTK
+
+* SkLearn
+
 ## Table of Contents
 
 1. README.md 

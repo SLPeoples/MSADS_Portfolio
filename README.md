@@ -21,11 +21,11 @@ contact@lukepeoples.com
 4. Referenced Course Projects and Assignments
     * [IST 659: Database Administration](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/IST659_DatabaseAdministration)
     
-    * [IST 664: Natural Language Processing](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/IST664_NaturalLanguageProcessing)
-    
     * [IST 707: Data Analytics](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/IST707_DataAnalytics)
+    
+    * [IST 736: Text Mining](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/IST736_TextMining)
    
-    * [SCM 651: Business Analytics](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/SCM651_BusinessAnalytics)
+    * [MAR 653: Marketing Analytics](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/MAR653_Marketing_Analytics)
   
 5. [Portfolio Presentation](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPortfolioPresentation.mp4)
     - Video file presenting the Portfolio Milestone

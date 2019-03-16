@@ -7,6 +7,14 @@ slpeople@syr.edu
 
 contact@lukepeoples.com
 
+## Required Tools
+
+* SQL Server Management Studio
+
+* SQL Server Integration Services
+
+* Microsoft Access
+
 ## Table of Contents
 
 1. README.md 

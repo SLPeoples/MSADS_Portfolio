@@ -15,7 +15,7 @@ contact@lukepeoples.com
 2. [SamuelPeoplesResume.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesResume.pdf)
     - Current Resume
 
-3. [SamuelPeoplesPortfolioMilestone.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPortfolioMilestone.pdf)
+3. [SamuelPeoplesPortfolioMilestone.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPorfolioMilestone.pdf)
     - Written Portfolio Milestone Report
 
 4. Referenced Course Projects and Assignments

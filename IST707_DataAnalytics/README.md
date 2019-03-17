@@ -9,7 +9,7 @@ contact@lukepeoples.com
 
 ## Description
 
-The project explored the data cleaning and classification necessary to predict whether a mushroom is poisonous or edible. The data was collected from Kaggle's Mushroom Classification dataset. Decision Tree and Naive Bayes Models are compared in their run-time and accuracy to determine which of the two algorithms best predicts the nature of a given mushroom.
+This project explored the data cleaning and classification necessary to predict whether a mushroom is poisonous or edible; the data was collected from Kaggle's Mushroom Classification dataset. Decision Tree and Naive Bayes Models are compared in their run-time and accuracy to determine which of the two algorithms best predicts the nature of a given mushroom.
 
 ## Required Tools
 

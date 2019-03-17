@@ -32,8 +32,8 @@ The Applied Data Science program at Syracuse University's School of Information 
     * [MAR 653: Marketing Analytics](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/MAR653_Marketing_Analytics)
   
 5. [Portfolio Presentation](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPortfolioPresentation.mp4)
-    - Video file presenting the Portfolio Milestone
+    - Video file presenting the Portfolio Milestone (NOT CURRENTLY AVAILABLE)
 
 6. [SamuelPeoplesPortfolioMilestonePresentation.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPortfolioMilestonePresentation.pdf)
-    - Referenced slide deck from presentation
+    - Referenced slide deck from presentation (NOT CURRENTLY AVAILABLE)
 

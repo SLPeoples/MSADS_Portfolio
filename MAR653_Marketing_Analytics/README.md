@@ -7,6 +7,10 @@ slpeople@syr.edu
 
 contact@lukepeoples.com
 
+## Description
+
+Given a customer base of roughly 45,000 households, our goal was to segment and profile customers based on factors such as income, shopping behavior, and demographics; then use this data to identify frequenty paired items to develop a direct mail coupon campaign. Given a $10,000 liability margin, our goal was to determine the optimal coupoin value that would encourage the targeted consumer base to increase item sales frequency and overall revenue.
+
 ## Required tools
 
 * Python

@@ -9,7 +9,7 @@ contact@lukepeoples.com
 
 ## Description
 
-Given a customer base of roughly 45,000 households, our goal was to segment and profile customers based on factors such as income, shopping behavior, and demographics; then use this data to identify frequently paired items to develop a direct mail coupon campaign. Given a $10,000 liability margin, our goal was to determine the optimal coupon value that would encourage the targeted consumer base to increase item sales frequency and overall revenue.
+Given a customer base of roughly 45,000 households, customers were segmented and profiled based on factors such as income, shopping behavior, and demographics; then use this data to identify frequently paired items to develop a direct mail coupon campaign. Given a $10,000 liability margin,  to determine the optimal coupon value that would encourage the targeted consumer base to increase item sales frequency and overall revenue.
 
 ## Required tools
 

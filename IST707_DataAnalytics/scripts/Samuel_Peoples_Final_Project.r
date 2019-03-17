@@ -4,7 +4,7 @@ library(rpart)
 library(rpart.plot)
 library(e1071)
 
-fp = "C:/Users/Ripti/Dropbox/Peoples/CSS143/Syracuse/1_Autumn18/IST707_Data_Analytics/Assignments/Project/"
+fp = "./IST707_Data_Analytics/Assignments/Project/"
 dataset = read.csv(paste(fp,'mushrooms_encoded.csv', sep=''))
 
 which(is.na(dataset))

@@ -9,7 +9,7 @@ contact@lukepeoples.com
 
 ## Description
 
-Lawmakers use social media for various things such as lobbying for legislation, providing support to their constituents, and promoting their own personal publicity. This project aims to identify primary issues discussed on Twitter by members of the UNited States House of Representatives and Senate. Through implementation of Latent Dirichlet Allocation topic modeling and K-Means Clustering, the ability to attribute clusters of topics to different groups of lawmakers will provide insight into the behavior of members of our government and contribute to the notion of a more informed voter.
+Lawmakers use social media for various things such as lobbying for legislation, providing support to their constituents, and promoting their own personal publicity. This project aims to identify primary issues discussed on Twitter by members of the United States House of Representatives and Senate. Through implementation of Latent Dirichlet Allocation topic modeling and K-Means Clustering, the ability to attribute clusters of topics to different groups of lawmakers will provide insight into the behavior of members of our government and contribute to the notion of a more informed voter.
 
 ## Required tools
 

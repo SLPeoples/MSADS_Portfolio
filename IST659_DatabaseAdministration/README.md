@@ -7,6 +7,10 @@ slpeople@syr.edu
 
 contact@lukepeoples.com
 
+## Description
+
+Over time, I have gathered a large corpus of music, ranging across many genres. Determining what music I have, and the relevant information about various aspects of the songs and albums often becomes cumbersome, and implementing a database solution for this information can help organize and analyze the music library. The stakeholders in this case include myself and music aficionados, who may want to analyze their own music libraries. Once data is added to the database, many questions may be answered which provide insight to the broad range of musical interests one might have.
+
 ## Required Tools
 
 * SQL Server Management Studio

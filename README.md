@@ -35,5 +35,5 @@ The Applied Data Science program at Syracuse University's School of Information 
     - Video file presenting the Portfolio Milestone (NOT CURRENTLY AVAILABLE)
 
 6. [SamuelPeoplesSlideDeck.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesSlideDeck.pdf)
-    - Referenced slide deck from presentation (NOT CURRENTLY AVAILABLE)
+    - Referenced slide deck from presentation
 

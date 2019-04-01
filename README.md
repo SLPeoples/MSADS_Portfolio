@@ -37,4 +37,5 @@ The Applied Data Science program at Syracuse University's School of Information 
 
 6. [SamuelPeoplesSlideDeck.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesSlideDeck.pdf)
     - Referenced slide deck from presentation
+    - [Public Link](https://docs.google.com/presentation/d/1bqwMwGoYIJwLUIqbyQqR9Gt7lUvXwEGusEO_b0gOHYM/edit?usp=sharing)
 

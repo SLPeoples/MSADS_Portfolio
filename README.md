@@ -16,7 +16,7 @@ The Applied Data Science program at Syracuse University's School of Information 
 1. README.md 
     - Overview Document detailing repository contents
 
-2. [SamuelPeoplesResume.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesResume.pdf)
+2. [SamuelPeoplesResume.pdf]()
     - Current Resume
 
 3. [SamuelPeoplesPortfolioMilestone.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPorfolioMilestone.pdf)

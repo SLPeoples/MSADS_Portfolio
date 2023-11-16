@@ -16,13 +16,10 @@ The Applied Data Science program at Syracuse University's School of Information 
 1. README.md 
     - Overview Document detailing repository contents
 
-2. [SamuelPeoplesResume.pdf]()
-    - Current Resume
-
-3. [SamuelPeoplesPortfolioMilestone.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPorfolioMilestone.pdf)
+2. [SamuelPeoplesPortfolioMilestone.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPorfolioMilestone.pdf)
     - Written Portfolio Milestone Report
 
-4. Referenced Course Projects and Assignments
+3. Referenced Course Projects and Assignments
     * [IST 659: Database Administration](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/IST659_DatabaseAdministration)
     
     * [IST 707: Data Analytics](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/IST707_DataAnalytics)
@@ -31,11 +28,11 @@ The Applied Data Science program at Syracuse University's School of Information 
    
     * [MAR 653: Marketing Analytics](https://github.com/SLPeoples/MSADS_Portfolio/tree/master/MAR653_Marketing_Analytics)
   
-5. [Portfolio Presentation](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPortfolioPresentation.mp4)
+4. [Portfolio Presentation](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesPortfolioPresentation.mp4)
     - Video file presenting the Portfolio Milestone
     - [Public Link](https://drive.google.com/file/d/14trGneXIW-ruNCRR72VuDjUuIcvvGWCq/view?usp=sharing)
 
-6. [SamuelPeoplesSlideDeck.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesSlideDeck.pdf)
+5. [SamuelPeoplesSlideDeck.pdf](https://github.com/SLPeoples/MSADS_Portfolio/blob/master/SamuelPeoplesSlideDeck.pdf)
     - Referenced slide deck from presentation
     - [Public Link](https://docs.google.com/presentation/d/1bqwMwGoYIJwLUIqbyQqR9Gt7lUvXwEGusEO_b0gOHYM/edit?usp=sharing)
 
